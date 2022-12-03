@@ -21,13 +21,6 @@ This repository contains the notebooks for ShAI's Natural Language Processing co
 
 
 
-
-
-
-
-
-
-
 ## Instructions
 
 1. Create a virtual envrionment
